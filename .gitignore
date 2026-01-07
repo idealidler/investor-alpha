@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Virtual Environment (NEVER upload this)
+venv/
+.env
+
+# Mac System files
+.DS_Store

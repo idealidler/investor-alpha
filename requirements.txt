@@ -1,0 +1,5 @@
+requests        # To make phone calls to the SEC website
+pandas          # To organize data into tables (like Excel for Python)
+beautifulsoup4  # To read the messy HTML/XML from SEC
+lxml            # A fast parser helper for BeautifulSoup
+ratelimit       # To make sure we don't get banned by the SEC (Compliance!)
